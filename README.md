@@ -1,2 +1,3 @@
-# ecommerce-react-vite-astro
-ecommerce utilizando react/vite/astro
+# ecommerce-react-vite
+ecommerce utilizando react/vite
+
